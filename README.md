@@ -29,7 +29,7 @@ Moreover, as the Kingdom of Saudi Arabia's interest came in the empowerment of v
  <li> 6️⃣ As a developer, I would like to install Andriod Studio environment, so that I can develop Imdad application 	</li>  
 <li>  7️⃣  As a developer, I would like to install Flutter SDK (Software Development Kit), so that I can develop Imdad application 	</li>  
 <li>  8️⃣ 	As a developer, I would like to install Firebase Database, so that I can develop Imdad application	 </li> 
-<li> 9️⃣ 	As a developer, I would like to set up a GitHub account, so that I can control and manage Imdad application	</li> 
+<li> 9️⃣ 	As a developer, I would like to set up a GitHub repository, so that I can control and manage Imdad application	</li> 
 <br> 
 <h3> 📌 knowledge Acquisition Features </h3> 
 
