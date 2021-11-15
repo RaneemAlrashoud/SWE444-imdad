@@ -25,6 +25,16 @@ Moreover, as the Kingdom of Saudi Arabia's interest came in the empowerment of v
  <br> 
  
 <h1>:rocket: Sprint#2</h1>
+<li> As a mosque manager I would like to receive notification if the posted request is fulfilled so that I can manage the donated funds. </li>
+<li>As a volunteer I would like to view all requests posted by the mosque so that I can participate in fulfilling the request.</li>
+<li>As a volunteer I would like to participate in the group funds posted by mosque manger so that I can help my community.</li>
+<li>As a volunteer I would like to pay by credit card so that I can participate in fulfilling a request.</li>
+<li>As a mosque manger I would like to post request for item donation so that volunteers can donate.</li>
+<li>As a volunteer I would like to view my profile so that I can review its information.</li>
+<li>As a Mosque manager, I would like to edit my posted requests, so that I can update the request's information</li>
+<li>As a mosque manager I would like to view my profile so that I can review its information.</li>
+
+
 <h1>:rocket: Sprint#3</h1>
 <h1>:rocket: Sprint#4</h1>
 
