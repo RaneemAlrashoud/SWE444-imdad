@@ -22,13 +22,17 @@ Moreover, as the Kingdom of Saudi Arabia's interest came in the empowerment of v
 <li> :two: Login+Logout for mosque manager and volunteer features --> Raneem </li>
 <li> :three: Post+cancel requests as a mosque manager features--> Rawan </li>
 <li>:four: View Posted requests as mosque manager and volunteer feature--> Deema </li>
-📌 Technical Features
+<br> 
+<h3> 📌 Technical Features </h3> 
+<br> 
 	<li>  5️⃣ As a developer, I would like to install Andriod Studio environment, so that I can develop Imdad application 	</li> 
- <li> 	 As a developer, I would like to install Andriod Studio environment, so that I can develop Imdad application 	</li>  
+ <li> 6️⃣ As a developer, I would like to install Andriod Studio environment, so that I can develop Imdad application 	</li>  
 <li>  7️⃣  As a developer, I would like to install Flutter SDK (Software Development Kit), so that I can develop Imdad application 	</li>  
 <li>  8️⃣ 	As a developer, I would like to install Firebase Database, so that I can develop Imdad application	 </li> 
 <li> 9️⃣ 	As a developer, I would like to set up a GitHub account, so that I can control and manage Imdad application	</li> 
-📌 knowledge Acquisition Feature
+<br> 
+<h3> 📌 knowledge Acquisition Feature </h3> 
+<br> 
 <li> 1️⃣0️⃣ As a Developer, I would like to learn dart language and its SDK Flutter, so that I can develop Imdad application.	Must </li> 
 <li> 1️⃣1️⃣ As a Developer, I would like to take Firebase database courses and how noSQL databases work, so that I can develop Imdad application 	</li>  
 
